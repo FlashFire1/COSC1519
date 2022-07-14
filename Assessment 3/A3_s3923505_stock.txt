@@ -1,0 +1,16 @@
+Item Name, Price, Quantity, Class, Core Material
+Dagger, 15, 45, Sword, Bronze
+Long Sword, 18, 30, Sword, Iron
+Broad Sword, 60, 30, Sword, Steel
+Katana, 32.5, 25, Sword, Steel
+Dragon-Bone Sword, 150, 2, Sword, Dragon-bone
+Iron Axe, 20, 20, Axe, Iron
+Mace, 27, 24, Blunt, Iron
+War Hammer, 80, 15, Blunt, Steel
+Rapier, 24, 18, Sword, Iron
+Nun Chucks, 69, 14, Flail, Steel
+Magic Staff, 35.5, 22, Staff, Wood
+Halberd, 54.5, 13, Polearm, Steel
+Darkwood Bow, 50, 28, Bow, Darkwood
+Heavy Crossbow, 30, 20, Bow, Wood
+Davids Sling, 120, 1, Special, Leather
