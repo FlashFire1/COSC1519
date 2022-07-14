@@ -1,0 +1,7 @@
+Joe,23
+Bill,20
+Sue,19.27
+Grace,23.67
+John,35.2
+Minh,22.86
+Giang,22.43
